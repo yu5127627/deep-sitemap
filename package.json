@@ -1,0 +1,26 @@
+{
+  "name": "deep-sitemap",
+  "version": "0.0.1",
+  "description": "nodejs生成网站地图",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cheerio": "^1.0.0-rc.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yu5127627/deep-sitemap.git"
+  },
+  "keywords": [
+    "seo、ssr、sitemap"
+  ],
+  "author": "将梦拉到现实",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yu5127627/deep-sitemap/issues"
+  },
+  "homepage": "https://github.com/yu5127627/deep-sitemap#readme"
+}
